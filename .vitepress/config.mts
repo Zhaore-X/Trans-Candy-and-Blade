@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/',
+  busuanzi_site_offset: 1,
   title: "糖与刀",
   description: "药娘的糖与刀",
   themeConfig: {
