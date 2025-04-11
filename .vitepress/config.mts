@@ -6,7 +6,7 @@ export default defineConfig({
   title: "糖与刀",
   description: "药娘的糖与刀",
   themeConfig: {
-    siteLogo: "https//img.zhaore.top/25.4data/logo.png",
+    siteLogo: "https://img.zhaore.top/25.4data/logo.png",
     logo: "https://img.zhaore.top/25.4data/logo.png",
     
     search: {
