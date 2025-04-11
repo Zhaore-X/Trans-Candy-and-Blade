@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /01/index.md
+      link: /
     - theme: alt
       text: 关于小说
       link: /about.md

@@ -1,6 +1,14 @@
 import DefaultTheme from 'vitepress/theme'
 import './style/index.css'
+import { inBrowser } from 'vitepress'
+import busuanzi from 'busuanzi.pure.js'
 export default {
   extends: DefaultTheme,
-  // ...DefaultTheme, //或者这样写也可
+  enhanceApp({ router }) {
+    if (inBrowser) {
+      router.onAfterRouteChanged = () => {
+        busuanzi.fetch()
+      }
+    }
+  }
 }
