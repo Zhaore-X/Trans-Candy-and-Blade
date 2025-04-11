@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: './',
+  base: '/',
   title: "糖与刀",
   description: "药娘的糖与刀",
   themeConfig: {
