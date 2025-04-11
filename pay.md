@@ -9,4 +9,4 @@
 
 # 赞助朝日，给刚写完代码的她买一杯咖啡......
 
-![赞助朝日](https://img.zhaore.top/25.4data/pay1.png "赞助朝日")
+![赞助朝日](https://img.zhaore.top/25.4data/pay1.jpg "赞助朝日")
