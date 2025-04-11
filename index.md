@@ -31,4 +31,5 @@ features:
     title: 谢谢阅读
     details: 求求各位喜欢的话帮忙转发一下并且进读者群吧阿里嘎多！为了热度作者什么都会做的。
 ---
-
+本站总访问量 <span id="busuanzi_value_site_pv" /> 次
+本站访客数 <span id="busuanzi_value_site_uv" /> 人次
