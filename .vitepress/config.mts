@@ -7,7 +7,7 @@ export default defineConfig({
   description: "药娘的糖与刀",
   themeConfig: {
     siteLogo: "transcab.zhaore.top/logo.png",
-    logo: "/logo.png",
+    logo: "https://zhaore.top/img/img.png",
     
     search: {
       provider: 'local'
