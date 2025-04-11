@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,ag as r}from"./chunks/framework.BcKvq3hl.js";const m=JSON.parse('{"title":"第二十章 · 芸子的歌","description":"","frontmatter":{},"headers":[],"relativePath":"01/020.md","filePath":"01/020.md"}'),o={name:"01/020.md"};function _(n,p,s,c,d,i){return t(),a("div",null,p[0]||(p[0]=[r("",81)]))}const f=e(o,[["render",_]]);export{m as __pageData,f as default};

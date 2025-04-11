@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,ag as o}from"./chunks/framework.BcKvq3hl.js";const m=JSON.parse('{"title":"第一章 · 芸子老师","description":"","frontmatter":{},"headers":[],"relativePath":"01/001.md","filePath":"01/001.md"}'),r={name:"01/001.md"};function _(n,p,s,c,d,i){return a(),e("div",null,p[0]||(p[0]=[o("",17)]))}const f=t(r,[["render",_]]);export{m as __pageData,f as default};

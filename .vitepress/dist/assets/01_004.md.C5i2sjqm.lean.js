@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,ag as r}from"./chunks/framework.BcKvq3hl.js";const l=JSON.parse('{"title":"第四章 · 压抑感","description":"","frontmatter":{},"headers":[],"relativePath":"01/004.md","filePath":"01/004.md"}'),o={name:"01/004.md"};function s(_,p,n,d,i,m){return a(),t("div",null,p[0]||(p[0]=[r("",30)]))}const f=e(o,[["render",s]]);export{l as __pageData,f as default};

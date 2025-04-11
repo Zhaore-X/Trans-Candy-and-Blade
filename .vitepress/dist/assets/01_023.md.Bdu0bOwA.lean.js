@@ -1,0 +1,1 @@
+import{_ as o,c as e,o as t,ag as c}from"./chunks/framework.BcKvq3hl.js";const n=JSON.parse('{"title":"第二十三 • 双盲诗","description":"","frontmatter":{},"headers":[],"relativePath":"01/023.md","filePath":"01/023.md"}'),a={name:"01/023.md"};function l(u,p,r,_,k,b){return t(),e("div",null,p[0]||(p[0]=[c("",35)]))}const s=o(a,[["render",l]]);export{n as __pageData,s as default};

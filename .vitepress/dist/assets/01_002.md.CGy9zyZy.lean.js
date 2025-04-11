@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,ag as r}from"./chunks/framework.BcKvq3hl.js";const m=JSON.parse('{"title":"第二章 · 初识","description":"","frontmatter":{},"headers":[],"relativePath":"01/002.md","filePath":"01/002.md"}'),o={name:"01/002.md"};function _(n,p,s,c,i,d){return a(),t("div",null,p[0]||(p[0]=[r("",21)]))}const f=e(o,[["render",_]]);export{m as __pageData,f as default};

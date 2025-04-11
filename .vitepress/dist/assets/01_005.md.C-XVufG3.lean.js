@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,ag as r}from"./chunks/framework.BcKvq3hl.js";const d=JSON.parse(`{"title":"第五章 · 独属于'我们'的乌托邦","description":"","frontmatter":{},"headers":[],"relativePath":"01/005.md","filePath":"01/005.md"}`),o={name:"01/005.md"};function _(n,p,s,m,f,c){return a(),e("div",null,p[0]||(p[0]=[r("",26)]))}const l=t(o,[["render",_]]);export{d as __pageData,l as default};

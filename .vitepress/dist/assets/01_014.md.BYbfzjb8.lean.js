@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,ag as r}from"./chunks/framework.BcKvq3hl.js";const m=JSON.parse('{"title":"第十四章 · 纯酱","description":"","frontmatter":{},"headers":[],"relativePath":"01/014.md","filePath":"01/014.md"}'),o={name:"01/014.md"};function _(n,p,s,c,i,d){return t(),a("div",null,p[0]||(p[0]=[r("",62)]))}const f=e(o,[["render",_]]);export{m as __pageData,f as default};

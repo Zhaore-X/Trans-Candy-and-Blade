@@ -1,8 +1,7 @@
 import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/',
-  busuanzi_site_offset: 1,
+  base: './',
   title: "糖与刀",
   description: "药娘的糖与刀",
   themeConfig: {
@@ -14,7 +13,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '朝日的网站', link: 'http://zhaore.top' }
+      { text: '朝日的网站', link: 'http://zhaore.top' },
+      { text: "赞助我们", link: "/pay.md" },
     ],
 
     sidebar: [
@@ -46,12 +46,13 @@ export default defineConfig({
           { text: '20 · 芸子的歌 ', link: '/01/020.md' },
           { text: '21 · 歌 ', link: '/01/021.md' },
           { text: '22 · 明明不配救赎却渴望着被救赎 ', link: '/01/022.md' },
+          {text: '23 • 双盲诗', link: '/01/023.md'}
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/Zhaore-X/Trans-candy-and-bladeh' }
     ]
   }
 })

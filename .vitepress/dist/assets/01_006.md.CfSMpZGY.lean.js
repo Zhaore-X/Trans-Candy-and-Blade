@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,ag as r}from"./chunks/framework.BcKvq3hl.js";const l=JSON.parse('{"title":"第六章 · 芸子的工作","description":"","frontmatter":{},"headers":[],"relativePath":"01/006.md","filePath":"01/006.md"}'),o={name:"01/006.md"};function _(s,p,n,d,c,i){return a(),e("div",null,p[0]||(p[0]=[r("",67)]))}const f=t(o,[["render",_]]);export{l as __pageData,f as default};

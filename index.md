@@ -4,23 +4,25 @@ layout: home
 
 hero:
   image:
-      src: /logo.png
-      alt: /logo.png
+      src: ./logo.png
+      alt: ./logo.png
   name: "糖与刀"
   text: "现代跨性别者小说"
-  tagline: “可是，真的有意义吗”“如果不去做的话，就什么都没有了吧”
+  tagline: “药与刀片没有答案, 性别焦虑没有答案,可是歌声依然不愿变得黯淡”
   actions:
     - theme: brand
       text: 开始阅读
-      link: /
+      link: ./01/index.md
     - theme: alt
       text: 关于小说
-      link: /about.md
-
+      link: ./about.md
+    - theme: alt
+      text: 在GitHub上查看
+      link: https://github.com/Zhaore-X/Trans-candy-and-blade
 features:
   - icon: 🔧
     title: 项目负责
-    details: 入侵犯了您的利益，请联系admin@zhaore.top删除。
+    details: 如侵犯了您的利益，请联系admin@zhaore.top删除。
   - icon: ✅
     title: 内容完整
     details: 基于作者一手原稿，内容完整无缺。

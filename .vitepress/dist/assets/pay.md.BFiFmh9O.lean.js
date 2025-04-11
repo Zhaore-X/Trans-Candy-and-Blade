@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as r,ag as o}from"./chunks/framework.BcKvq3hl.js";const h=JSON.parse('{"title":"赞助","description":"","frontmatter":{},"headers":[],"relativePath":"pay.md","filePath":"pay.md"}'),i={name:"pay.md"};function s(n,a,p,l,c,_){return r(),e("div",null,a[0]||(a[0]=[o("",6)]))}const m=t(i,[["render",s]]);export{h as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,ag as r}from"./chunks/framework.BcKvq3hl.js";const m=JSON.parse('{"title":"第十五章 · 纯酱（下）","description":"","frontmatter":{},"headers":[],"relativePath":"01/015.md","filePath":"01/015.md"}'),o={name:"01/015.md"};function _(n,p,s,c,i,d){return a(),e("div",null,p[0]||(p[0]=[r("",52)]))}const f=t(o,[["render",_]]);export{m as __pageData,f as default};

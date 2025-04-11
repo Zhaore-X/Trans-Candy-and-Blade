@@ -11,7 +11,7 @@
 版权所有 © 2024-2025 [糖屑](https://x.com/cabofficial2024)以及糖与刀运营及策划,以及网站所有者[朝日](https://zhaore.top)
 
 授权声明 
-© 2024-2025 [糖屑]授权[朝日](zhaore.top)使用文章内容，网站所有归© 2023-2025[朝日](zhaore.top)所有。
+© 2024-2025 [糖屑]授权[朝日](https://zhaore.top)使用文章内容，网站所有归© 2023-2025[朝日](https://zhaore.top)所有。
 
 适用域名 [朝日]<http://transcad.zhaore.top>;[Lagrange]<http:糖与刀.top>
 

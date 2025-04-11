@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as e,ag as r}from"./chunks/framework.BcKvq3hl.js";const l=JSON.parse('{"title":"第七章 · 吵架","description":"","frontmatter":{},"headers":[],"relativePath":"01/007.md","filePath":"01/007.md"}'),o={name:"01/007.md"};function _(n,p,s,d,c,i){return e(),t("div",null,p[0]||(p[0]=[r("",42)]))}const u=a(o,[["render",_]]);export{l as __pageData,u as default};
