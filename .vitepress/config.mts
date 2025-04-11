@@ -2,12 +2,12 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/',
-  head: [['link', { rel: 'icon', href: '/logo.png' }]],
+  head: [['link', { rel: 'icon', href: 'https://img.zhaore.top/25.4data/logo.ico' }]],
   title: "糖与刀",
   description: "药娘的糖与刀",
   themeConfig: {
-    siteLogo: "transcab.zhaore.top/logo.png",
-    logo: "https://zhaore.top/img/img.png",
+    siteLogo: "https//img.zhaore.top/25.4data/logo.png",
+    logo: "https://img.zhaore.top/25.4data/logo.png",
     
     search: {
       provider: 'local'

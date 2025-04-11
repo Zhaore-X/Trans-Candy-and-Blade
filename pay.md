@@ -5,8 +5,8 @@
 # 赞助作者，给作者更新的动力!
 
 
-![赞助作者](https://transcab./img/pay0.jpg "赞助作者")
+![赞助作者](https://img.zhaore.top/25.4data/pay0.jpg "赞助作者")
 
 # 赞助朝日，给刚写完代码的她买一杯咖啡......
 
-![赞助朝日](https://transcab.zhaore.top/img/pay1.png "赞助朝日")
+![赞助朝日](https://img.zhaore.top/25.4data/pay1.png "赞助朝日")
