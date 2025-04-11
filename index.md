@@ -4,8 +4,8 @@ layout: home
 
 hero:
   image:
-      src: ./logo.png
-      alt: ./logo.png
+      src: https://img.zhaore.top/25.4data/logo.png
+      alt: https://img.zhaore.top/25.4data/logo.png
   name: "糖与刀"
   text: "现代跨性别者小说"
   tagline: “药与刀片没有答案, 性别焦虑没有答案,可是歌声依然不愿变得黯淡”
