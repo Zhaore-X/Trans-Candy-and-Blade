@@ -13,7 +13,7 @@
 授权声明 
 © 2024-2025 [糖屑]授权[朝日](https://zhaore.top)使用文章内容，网站所有归© 2023-2025[朝日](https://zhaore.top)所有。
 
-适用域名 [朝日]<http://transcad.zhaore.top>;[Lagrange]<http:糖与刀.top>
+适用域名 [朝日]<http://transcad.zhaore.top>;[Lagrange]<http://糖与刀.top>
 
 ## 版本信息
 
@@ -29,4 +29,4 @@ SSL证书：CloudFlare提供
 
 每日可供访问次数：100,100次
 
-图床提供：ClouFlare流量
+图床提供：CloudFlare流量
