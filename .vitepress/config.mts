@@ -55,7 +55,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Zhaore-X/Trans-candy-and-bladeh' }
+      { icon: 'github', link: 'https://github.com/Zhaore-X/Trans-candy-and-blade' }
     ]
   }
 })
