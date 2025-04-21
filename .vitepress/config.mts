@@ -48,7 +48,7 @@ export default defineConfig({
           { text: '20 · 芸子的歌 ', link: '/01/020.md' },
           { text: '21 · 歌 ', link: '/01/021.md' },
           { text: '22 · 明明不配救赎却渴望着被救赎 ', link: '/01/022.md' },
-          { text: '23 · 双盲诗', link: '/01/023.md' }
+          { text: '23 · 双盲诗', link: '/01/023.md' },
           { text: '24 · 雨糖与芋圆', link: '/01/024.md' }
         ]
       }
